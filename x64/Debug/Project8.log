@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Acer\Desktop\Квадрат Виженера\VIGENERE-CIPHER-LAB2-master\Source.cpp(37,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Acer\Desktop\Квадрат Виженера\VIGENERE-CIPHER-LAB2-master\Source.cpp(103,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Project8.vcxproj -> C:\Users\Acer\Desktop\Квадрат Виженера\VIGENERE-CIPHER-LAB2-master\x64\Debug\Project8.exe
